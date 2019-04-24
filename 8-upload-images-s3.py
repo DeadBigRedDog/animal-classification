@@ -3,8 +3,8 @@ import os
 import pandas as pd
 #pip install boto3
 
-AWS_ACCESS_KEY_ID = 'ACCESS_KEY'
-AWS_SECRET_ACCESS_KEY = 'SECRET_KEY'
+AWS_ACCESS_KEY_ID = 'AKIAZKC2C6CODVS4K5QQ'
+AWS_SECRET_ACCESS_KEY = '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'
 IMAGE_PATH = 'data/tweaked_data/images/tvmonitor'
 SAVED_IMAGE_PATH = 'data/tweaked_data/written.csv'
 AWS_BUCKET_PATH = "images/tvmonitor/"
