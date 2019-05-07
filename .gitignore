@@ -18,3 +18,4 @@ log/**
 .pyenv/**
 *.sqlite3
 *.jpg
+*.h5
